@@ -47,3 +47,8 @@ State management in the app is handled using **GetX**, which ensures reactive an
    ```bash
    flutter run
    ```
+## Demo Video
+
+
+https://github.com/user-attachments/assets/ed6b3e0e-9caa-4259-8c0c-e874f6ddb9e1
+
